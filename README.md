@@ -2,13 +2,16 @@
 
 
 ## Languages and Tools:
-  <img src="https://cdn.simpleicons.org/python/000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/javascript/000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/d3/000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/postgresql/000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/processingfoundation/000?viewbox=auto&size=40" />
-<img src="https://cdn.simpleicons.org/docker/000?viewbox=auto&size=40" />
-<img src="https://cdn.simpleicons.org/gnubash/000?viewbox=auto&size=40" />
-<img src="https://cdn.simpleicons.org/arduino/000?viewbox=auto&size=40" />
-<img src="https://cdn.simpleicons.org/blender/000?viewbox=auto&size=40" />
+
+<div align = 'left'>
+	<img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/d3?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/processingfoundation?viewbox=auto&size=40"/>
+	<img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/gnubash?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/arduino?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/blender?viewbox=auto&size=40" />
+</div>
