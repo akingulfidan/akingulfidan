@@ -1,19 +1,46 @@
 <img src="assets/atlas_loop.gif" style="border-radius: 12px;">
 
+## 👋 Welcome to my GitHub page
 
+* I study how visualizations organize, transform, and communicate information. 
+* I build software for exploring large multimedia collections.
 
+### 📚  Research
+* [*Visualisation comme application de l’information:
+Perte et génération d’informations à travers des pratiques visuelles* (Master's Thesis 2026)](https://memoire.randomlab.io/2026/akin-gulfidan/visualisation-information-akin-gulfidan.pdf)
 
-## Languages and Tools:
+### 🛠️ Tools & Technologies
 
+#### Programming
 <div align = 'left'>
 	<img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
-	<img src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto&size=40" />
 	<img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" />
-	<img src="https://cdn.simpleicons.org/d3?viewbox=auto&size=40" />
-	<img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
-	<img src="https://cdn.simpleicons.org/processingfoundation?viewbox=auto&size=40"/>
-	<img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=40" />
 	<img src="https://cdn.simpleicons.org/gnubash?viewbox=auto&size=40" />
+</div>
+
+#### Visualization 
+<div align = 'left'>
+	<img src="https://cdn.simpleicons.org/d3?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/processingfoundation?viewbox=auto&size=40"/>
+</div>
+
+#### ML & Data
+<div align = 'left'>
+	<img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/pandas?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/numpy?viewbox=auto&size=40" />
+</div>
+
+#### Creative Computing
+<div align = 'left'>
 	<img src="https://cdn.simpleicons.org/arduino?viewbox=auto&size=40" />
 	<img src="https://cdn.simpleicons.org/blender?viewbox=auto&size=40" />
 </div>
+
+#### Infrastructure
+<div align = 'left'>
+	<img src="https://cdn.simpleicons.org/docker?viewbox=auto&size=40" />
+	<img src="https://cdn.simpleicons.org/git?viewbox=auto&size=40" />
+</div>
+
