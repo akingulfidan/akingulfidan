@@ -1,4 +1,6 @@
-<img src="assets/atlas_loop.gif" >
+<img src="assets/atlas_loop.gif" style="border-radius: 12px;">
+
+
 
 
 ## Languages and Tools:
