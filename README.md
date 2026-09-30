@@ -6,6 +6,7 @@
 * I build software for exploring large multimedia collections.
 
 ### 📚  Research
+* [Gulfidan, A., Chiron, P.-A., Samuel, J., Gouet-Brunet, V., and Gesquière, G.: Design Space for Visualizing Multimedia Documents in Spatio-Temporal-Thematic Urban Context, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., XII-4/W1-2026, 179–186, https://doi.org/10.5194/isprs-annals-XII-4-W1-2026-179-2026, 2026.](https://isprs-annals.copernicus.org/articles/XII-4-W1-2026/179/2026/)
 * [*Visualisation comme application de l’information:
 Perte et génération d’informations à travers des pratiques visuelles* (Master's Thesis 2026)](https://memoire.randomlab.io/2026/akin-gulfidan/visualisation-information-akin-gulfidan.pdf)
 
